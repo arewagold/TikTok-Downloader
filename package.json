@@ -1,0 +1,13 @@
+{
+  "name": "tiktok-downloader-puppeteer",
+  "version": "1.0.0",
+  "description": "TikTok video downloader using Puppeteer and Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.3.8"
+  }
+}
